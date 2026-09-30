@@ -1,0 +1,6 @@
+{
+  "cleanUrls": true,
+  "headers": [
+    { "source": "/tofino-full-7q4x9m", "headers": [{ "key": "X-Robots-Tag", "value": "noindex, nofollow" }] }
+  ]
+}
